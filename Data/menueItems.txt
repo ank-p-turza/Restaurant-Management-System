@@ -1,0 +1,15 @@
+burger,20,120.0
+pizza,10,240.99
+taco,200,70.5
+cheese-cake,57,299.99
+chicken-roast,90,120.0
+donuts,200,70.0
+ice-cake,50,299.99
+ice-cream,244,120.0
+stake,89,600.0
+chicken-rool,130,20.0
+shrimp,194,50.0
+egg-sandwich,300,80.0
+vsv,172,47.0
+kjbjbbk,546,44.4
+in,4,515.4

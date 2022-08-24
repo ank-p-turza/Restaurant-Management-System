@@ -1,0 +1,6 @@
+1 pizza's sold worth 240.99 'sfrom Table 1
+1 stake's sold worth 600.0 'sfrom Table 3
+5 pizza's sold worth 1204.95 'sfrom Table 1
+5 ice-cream's sold worth 600.0 'sfrom Table 1
+1 pizza's sold worth 240.99 'sfrom Table 5
+2 pizza's sold worth 481.98 'sfrom Table 1
