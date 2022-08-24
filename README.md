@@ -1,2 +1,2 @@
 # Restaurant-Management-System
-Restaurant Management System with file no database
+Restaurant Management System with text file no database
