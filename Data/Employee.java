@@ -1,0 +1,5 @@
+admin;pass;Mr. X;Manager;admin@restaurant-x.com;+8801700000000;40000.205;408/1 Kuratoli, Dhaka-1229
+recep-1;recepPass;Mr. A;Receptionist;receptionist-1@restaurant-x.com;+8801900000000;15000.00;Chittagong
+waiter-1;WaiterPass;Mr. Y;Waiter;waiter-1@restaurant-x.com;+8801800000000;12000.0;Cumilla,Chittagong
+waiter-2;WaiterPass2;Mr. Z;Waiter;waiter-2@restaurant-x.com;+8801xxxxxxxx;12500.00;Dhaka
+waiter-3;WaiterPass3;Mr. P;Waiter;waiter-3@restaurant-x.com;+880150000000;13000.00;Dhaka
